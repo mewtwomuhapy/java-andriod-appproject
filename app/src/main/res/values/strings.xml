@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RME</string>
+    <string name="ID">ID</string>
+    <string name="password">Password</string>
+    <string name="app">APP</string>
+    <string name="save">Save Successful</string>
+    <string name="list">list</string>
+    <string name="clear">clear</string>
+    <string name="name">App Name</string>
+    <string name="passwordlist">Password</string>
+    <string name="id">ID</string>
+    <string name="listRME">List of your RME</string>
+    <string name="hint">Do not use redundant name/enter the appname you want to delete,save,update. </string>
+    <string name="wrong">Wrong Password</string>
+    <string name="insert">New Entry Inserted</string>
+    <string name="noinsert">New Entry Not Inserted</string>
+    <string name="update">Entry updated</string>
+    <string name="noupdate">Entry Not updated</string>
+    <string name="delete">Entry deleted</string>
+    <string name="nodelete">Entry Not deleted</string>
+    <string name="exist">No Entry Exists</string>
+    <string name="success">SUCCESS</string>
+    <string name="create">Create Password</string>
+    <string name="input">Input Password</string>
+    <string name="savet">Save</string>
+    <string name="listt">List</string>
+    <string name="updatet">Update</string>
+    <string name="deletet">Delete</string>
+    <string name="loading">Loading...</string>
+</resources>

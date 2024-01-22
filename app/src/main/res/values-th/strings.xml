@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RME</string>
+    <string name="ID">ไอดี</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="app">แอป</string>
+    <string name="save">บันทึกสำเร็จ</string>
+    <string name="list">รายการ</string>
+    <string name="clear">ล้าง</string>
+    <string name="name">ชื่อแอป</string>
+    <string name="passwordlist">รหัสผ่าน</string>
+    <string name="id">ไอดี</string>
+    <string name="listRME">รายการของคุณ</string>
+    <string name="hint">โปรดอย่าใช้รายชื่อที่ซ้ำซ้อน / กรอกข้อมูลที่ท่านต้องการ บันทึก, อัปเดต หรือ ลบ</string>
+    <string name="wrong">รหัสผ่านไม่ถูกต้อง</string>
+    <string name="insert">รายการใหม่ถูกบันทึกแล้ว</string>
+    <string name="noinsert">รายการใหม่ไม่ถูกบันทึก</string>
+    <string name="update">รายการถูกอัปเดตแล้ว</string>
+    <string name="noupdate">รายการไม่ถูกอัปเดต</string>
+    <string name="delete">รายการถูกลบแล้ว</string>
+    <string name="nodelete">รายการไม่ถูกลบ</string>
+    <string name="exist">ไม่มีรายการเหลืออยู่</string>
+    <string name="success">สำเร็จ</string>
+    <string name="create">สร้างรหัสผ่าน</string>
+    <string name="input">ระบุรหัสผ่าน</string>
+    <string name="savet">บันทึก</string>
+    <string name="listt">รายการ</string>
+    <string name="updatet">อัปเดต</string>
+    <string name="deletet">ลบ</string>
+    <string name="loading">กำลังโหลด...</string>
+</resources>

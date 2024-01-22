@@ -1,0 +1,102 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/background">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ID"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/idr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:inputType="" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="@string/password"/>
+
+        <EditText
+            android:id ="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+
+            android:inputType=""/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id ="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:hint="@string/hint"
+            android:inputType=""/>
+
+        <Button
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="sendMessage"
+            android:background="#70FF0000"
+            android:text="@string/savet" />
+
+
+        <Button
+            android:id="@+id/list1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#70FF0000"
+            android:onClick="sendMessage"
+            android:text="@string/listt" />
+
+
+        <Button
+            android:id="@+id/update1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#70FF0000"
+            android:onClick="sendMessage"
+            android:text="@string/updatet" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/delete1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#70FF0000"
+        android:onClick="sendMessage"
+        android:text="@string/deletet" />
+
+
+</LinearLayout>
+
+
+
+
+
